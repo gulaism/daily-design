@@ -288,6 +288,9 @@ select {
     align-items: center;
     position: absolute;
     right: 0;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
 }
 .code {
     width: 26px;
