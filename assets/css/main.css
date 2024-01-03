@@ -161,9 +161,9 @@ select {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 50px 40px;
 }
 .btn2 {
-    margin: 50px 40px;
     width: 236px;
     height: 61px;
     background-color: #FCFCFF;
@@ -232,7 +232,6 @@ select {
 }
 .card-items {
     margin-left: 50px;
-    margin-top: 40px;
     margin-right: 49px;
     display: flex;
 }
