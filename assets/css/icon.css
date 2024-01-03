@@ -1,0 +1,38 @@
+.icon {
+    width: 30px;
+    height: 30px;
+}
+.icon.logo{
+    background-image: url('../icons/logo.svg');
+}
+.chevron-down{
+    background-image: url('../icons/chevron-down.svg');
+}
+.search {
+    background-image: url(../icons/search.svg);
+}
+.figma {
+    background-image: url(../icons/figma.svg);
+}
+.zipler {
+    background-image: url(../icons/zipler.svg);
+}
+.pink {
+    background-image: url(../icons/pink.svg);
+}
+.xd {
+    background-image: url(../icons/xd.svg);
+}
+.photoshop {
+    background-image: url(../icons/photoshop.svg);
+}
+.code {
+    background-image: url(../icons/code.svg);
+    width: 26px;
+    height: 26px;
+}
+.pray {
+    background-image: url(../icons/pray.svg);
+    width: 20px;
+    height: 20px;
+}
